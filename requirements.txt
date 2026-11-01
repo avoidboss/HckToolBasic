@@ -1,0 +1,5 @@
+aiohttp==3.10.5
+asyncio==3.4.3
+dnspython==2.6.1
+colorama==0.4.6
+mcstatus==11.1.1
